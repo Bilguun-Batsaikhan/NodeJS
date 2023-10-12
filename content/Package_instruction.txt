@@ -1,0 +1,7 @@
+npm init -y ~ this is the default creation
+npm init ~ this is longer version where you have to set up bunch of stuff
+npm i packageName ~ install package
+npm uninstall packageName
+
+npm install ~ if I've the package.json then it'll automatically install all "dependencies" setting up node_modules
+npm i packageName -D ~ set up the package for developer dependency
